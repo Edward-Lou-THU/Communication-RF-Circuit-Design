@@ -1,0 +1,5 @@
+如果连接服务器遇到问题，可安装虚拟机进行仿真实验。
+这里给大家提供装有cadence的Linux虚拟机，windows版基于vmware软件，macOS版基于parallels软件，虚拟机登录密码都是diandian666，进入虚拟机后，打开终端（terminal），之后启动cadence的方式与仿真服务器一致。
+windows版下载地址：https://cloud.tsinghua.edu.cn/d/ee62ae44421343a79004/
+macOS版下载地址：https://cloud.tsinghua.edu.cn/d/142e72c56d1b4765943f/
+虚拟机比较大，采用分卷压缩的方式，所有文件都需要下载。如果一直下载失败，可以试试迅雷等下载软件。"
